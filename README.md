@@ -1,14 +1,14 @@
-# Multi Cloud Saas Application
+# Multi Cloud Saas Application Portal 
 
-3 tenants :
+## Tenants :
 
-Tenant1 : NodeJS + Mongo
-Tenant2 : Python + Mongo
-Tenant3 : Go + Mongo
+<br>Tenant1 : NodeJS + Mongo</br>
+<br>Tenant2 : Python + Mongo</br>
+<br>Tenant3 : Go + Mongo</br>
 
-Kong API : Rounter
+Kong API : Rounter API to different Tenants dependent upon Starbucks store chosen
 
-UI : Angular JS
+UI : Angular JS + Express + NodeJS
 
 
 ## Team Members
